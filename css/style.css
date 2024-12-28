@@ -1827,7 +1827,7 @@ body.modal{
     width: 1px;
 	bottom: 25px;
     right: -25px;
-    background-color: rgba(0,0,0,.08);
+    background-color: rgb(255, 255, 255);
     z-index: 10;
     transition: all .3s ease;
 }
@@ -1855,7 +1855,7 @@ body.modal{
 }
 .progressbar a{
 	text-decoration: none;
-	color: #000;
+	color: #ffffff;
 }
 
 /*---------------------------------------------------*/
